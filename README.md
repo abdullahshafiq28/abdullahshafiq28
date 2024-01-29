@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Shafiq</h1>
 <h3 align="center">I am a full-stack software developer having more than 5 years of Professional Experience in different Technologies. I love programming and traveling. As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaipwaladi246&label=Profile%20views&color=@e75b6&style=flat" alt="Jaiswaladi246" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaipwaladi246&label=Profile%20views&style=flat" alt="Jaiswaladi246" /> </p>
 
 - 🔭 I’m currently working on [Bidandgo](http://bidandgo.it)
 
