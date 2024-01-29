@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [www.abdullahshafiq.com](www.abdullahshafiq.com)
 
-- 📝 I regularly write articles on [https://medium.com/@mabdullahshafiq100/javascript-for-beginners-8ecb188e147b](https://medium.com/@mabdullahshafiq100/javascript-for-beginners-8ecb188e147b)
+- 📝 I regularly write articles on [MyBlogs](https://medium.com/@mabdullahshafiq100/javascript-for-beginners-8ecb188e147b)
 
 - 📫 How to reach me **mabdullahshafiq100@gmail.com**
 
