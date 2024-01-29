@@ -26,3 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahshafiq28&show_icons=true&locale=en&layout=compact" alt="abdullahshafiq28" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahshafiq28&show_icons=true&locale=en" alt="abdullahshafiq28" /></p>
+
+### My GitHub Contributions
+![Snake_animation](https://github.com/jaiswalad246/jaiswaladi246/blob/output/github-contribution-grid-snake.sv8)
