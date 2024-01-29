@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahshafiq28&show_icons=true&locale=en" alt="abdullahshafiq28" /></p>
 
 ### My GitHub Contributions
-[Snake_animation](https://github.com/abdullahshafiq28/abdullahshafiq28/blob/output/github-contribution-grid-snake.svg)
+![Snake_animation](https://github.com/abdullahshafiq28/abdullahshafiq28/blob/output/github-contribution-grid-snake.svg)
