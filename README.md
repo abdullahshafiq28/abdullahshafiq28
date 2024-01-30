@@ -19,7 +19,9 @@
    <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-shafiq-9988bb16b" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-<a href="https://medium.com/@mabdullahshafiq100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mabdullahshafiq100" height="30" width="40" /></a>
+<a href="https://medium.com/@mabdullahshafiq100" target="_blank">
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
