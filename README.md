@@ -28,10 +28,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank">
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<p align="left"> <a href="https://reactjs.org/" target="_blank">
+  <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </a>
-     <a href="https://developer.android.com" target="_blank">
+
+<a href="https://reactnative.dev/" target="_blank">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+</a>
+   <a href="https://developer.android.com" target="_blank">
     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   </a>
 
