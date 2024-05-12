@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [www.abdullahshafiq.com](www.abdullahshafiq.com)
+- 👨‍💻 All of my projects are available at [www.abdullahshafiq.com](www.abdullahshafiq09.com)
 
 - 📝 I regularly write articles on [MyBlogs](https://medium.com/@mabdullahshafiq100/javascript-for-beginners-8ecb188e147b)
 
