@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abdullah Shafiq</h1>
 
-<h4 align="center">I'm Abdullah Shafiq, a Full-Stack & AI Engineer helping startups go from concept to working AI products in weeks, not months.
+<h4 align="center">I'm a Full-Stack & AI Engineer helping startups go from concept to working AI products in weeks, not months.
 
 With over 5 years of hands-on experience, I specialize in building modern websites, mobile apps, SaaS platforms, and AI-driven MVPs that accelerate business growth. I design and develop AI agents, LLM-powered chatbots, and automation workflows that bring intelligence and efficiency to digital products.
 
-From crafting scalable SaaS systems to delivering interactive dashboards and custom AI integrations, I help founders turn ideas into revenue-generating realities.My work has empowered teams across the US, UK, and beyond, saving them hours of manual effort and unlocking new levels of productivity.
+From crafting scalable SaaS systems to delivering interactive dashboards and custom AI integrations, I help founders turn ideas into revenue-generating realities.My work has empowered teams across the US, UK, and beyond, saving them hours of manual effort and unlocking new levels of productivity.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahshafiq28&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahshafiq28" /> </p>
 
-- 🔭 I'm currently working on AI-powered applications including intelligent recommendation systems, NLP-based solutions, and machine learning models
+- 🔭 I'm currently working on **AI-powered applications** including intelligent recommendation systems, NLP-based solutions, and machine learning models
 
-- 🤖 Experienced in building AI/ML solutions with expertise in Deep Learning, Natural Language Processing, and Computer Vision
+- 🤖 Experienced in building **AI/ML solutions** with expertise in Deep Learning, Natural Language Processing, and Computer Vision
 
-- 🌱 I'm currently exploring Advanced AI techniques including LLMs, RAG systems, and AI Agent development
+- 🌱 I'm currently exploring **Advanced AI techniques** including LLMs, RAG systems, and AI Agent development
 
 - 👨‍💻 All of my projects are available at [www.abdullahshafiq.com](www.abdullahshafiq09.com)
 
