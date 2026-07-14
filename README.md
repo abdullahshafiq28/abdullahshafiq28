@@ -23,15 +23,50 @@
 
 ### 🚀 About Me
 
-With **7+ years** of experience, I help startups and teams go from concept to working **AI-powered products** in weeks, not months. My focus has shifted heavily toward **applied AI/ML** — building LLM-powered agents, RAG systems, and intelligent automation that plugs directly into real products, backed by solid full-stack engineering underneath.
+I'm a Full-Stack & AI/ML Engineer with **7+ years** of hands-on experience helping startups and product teams go from a rough idea to a working, revenue-generating product — often in weeks rather than months. Over the last couple of years my focus has shifted heavily toward **applied AI**: I spend most of my time designing and shipping LLM-powered agents, retrieval systems, and automation pipelines that make real products smarter, not just adding a chatbot on top.
 
-- 🤖 Building **AI agents & agentic workflows** — multi-agent coordination, tool use, and autonomous task execution
-- 🧠 Designing **RAG pipelines** with vector databases (Pinecone, Weaviate, pgvector) for grounded, accurate LLM outputs
-- 🔗 Integrating **LLM APIs** (OpenAI, Anthropic Claude, Gemini) into production apps — chat, voice, and real-time systems
-- 👁️ Hands-on with **Computer Vision & NLP** — from classic ML to transformer-based deep learning models
-- 🏗️ Shipping **AI-native SaaS platforms**: scalable backends, real-time dashboards, and clean, fast frontends
-- 🌱 Currently exploring **AI agent orchestration, MCP (Model Context Protocol), and multi-modal LLM systems**
-- 💼 Delivered projects for teams across the **US, UK, and beyond** — saving hours of manual work and unlocking new productivity
+I like sitting at the intersection of research and production. That means I'm comfortable reading a paper on a new retrieval or fine-tuning technique one day, and the next day wiring that idea into a FastAPI service, a Postgres-backed vector store, and a React dashboard that a non-technical team can actually use. I care about AI systems that are reliable and explainable, not just impressive in a demo — grounding outputs with RAG, adding evaluation and guardrails, and designing for graceful failure when a model gets something wrong.
+
+**What I'm focused on right now:**
+
+- 🤖 **AI agents & agentic workflows** — multi-agent coordination, tool use, task planning, and autonomous execution loops that can be trusted to run with minimal supervision
+- 🧠 **RAG pipelines** — chunking strategies, embeddings, and vector databases (Pinecone, Weaviate, pgvector) built to keep LLM outputs grounded and reduce hallucination
+- 🔗 **LLM API integration** — OpenAI, Anthropic Claude, and Gemini wired into production apps for chat, voice, and real-time use cases, including latency and cost-aware architecture
+- 👁️ **Computer Vision & NLP** — from classical ML baselines to transformer-based deep learning models, depending on what the problem actually needs
+- 🏗️ **AI-native SaaS platforms** — scalable backends, real-time dashboards, and frontends built to make AI features feel native to the product, not bolted on
+- 🌱 **Currently exploring** agent orchestration frameworks, the Model Context Protocol (MCP), and multi-modal LLM systems that combine text, voice, and vision
+- 💼 **Track record**: delivered projects for teams across the **US, UK, and beyond**, consistently focused on saving hours of manual effort and unlocking new levels of productivity
+
+**How I like to work:** I'd rather ship a focused MVP that proves the core AI workflow actually works, get real feedback, then iterate — instead of over-engineering a "perfect" system before anyone has used it. Most of my recent work has come from exactly that loop: prototype fast, validate with real data and real users, then harden for production.
+
+---
+
+### 🌟 Featured Projects
+
+> Swap these placeholders for 2–4 of your strongest repos — projects that show range (an agent/RAG system, a full-stack AI product, something with real users) tend to land better than an exhaustive list.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🤖 Project Name</h4>
+      <p>One or two sentences on what it does, who it's for, and the core AI technique behind it (e.g. "An agentic research assistant that plans multi-step tasks and cites sources using a custom RAG pipeline over Pinecone").</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+      </p>
+      <a href="#">🔗 View Repo</a>
+    </td>
+    <td width="50%">
+      <h4>🧠 Project Name</h4>
+      <p>Short description focused on impact and outcome — e.g. "Cut manual data-entry time by 80% for a UK-based SaaS client using an LLM-powered extraction pipeline."</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+      </p>
+      <a href="#">🔗 View Repo</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -77,6 +112,8 @@ With **7+ years** of experience, I help startups and teams go from concept to wo
 
 ### 📊 GitHub Stats
 
+A snapshot of recent activity — most of it these days is Python and TypeScript, split between model/agent code and the product surfaces around it.
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahshafiq28&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahshafiq28&layout=compact&theme=tokyonight&hide_border=true" />
@@ -93,6 +130,8 @@ With **7+ years** of experience, I help startups and teams go from concept to wo
 ---
 
 ### 📫 Let's Connect
+
+I'm always open to conversations about AI agents, RAG systems, or turning an early-stage idea into a working product — whether that's a quick technical question or a longer-term collaboration. Feel free to reach out through any of the channels below, or check out [my writing on Medium](https://medium.com/@mabdullahshafiq100) where I share notes on building AI-driven products.
 
 <p align="left">
   <a href="mailto:mabdullahshafiq100@gmail.com" target="_blank">
