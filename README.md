@@ -1,158 +1,110 @@
-<h1 align="center">Hi 👋, I'm Abdullah Shafiq</h1>
+<h1 align="center">Hi there, I'm Abdullah Shafiq 👋</h1>
 
-<h4 align="center">I'm a Full-Stack & AI Engineer helping startups go from concept to working AI products in weeks, not months.
+<h3 align="center">AI/ML Engineer & Full-Stack Developer — turning ideas into intelligent, production-ready products</h3>
 
-With over 7 years of hands-on experience, I specialize in building modern websites, mobile apps, SaaS platforms, and AI-driven MVPs that accelerate business growth. I design and develop AI agents, LLM-powered chatbots, and automation workflows that bring intelligence and efficiency to digital products.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+LLM+Systems;RAG+Pipelines+%2B+Vector+Search;Deep+Learning+%26+Computer+Vision;Full-Stack+SaaS+%2B+AI+MVPs" alt="Typing SVG" />
+</p>
 
-From crafting scalable SaaS systems to delivering interactive dashboards and custom AI integrations, I help founders turn ideas into revenue-generating realities.My work has empowered teams across the US, UK, and beyond, saving them hours of manual effort and unlocking new levels of productivity.</h4>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullahshafiq28&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahshafiq28" />
+  <a href="https://linkedin.com/in/abdullah-shafiq-9988bb16b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mabdullahshafiq100@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@mabdullahshafiq100" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Read-12100E?style=flat&logo=medium&logoColor=white" />
+  </a>
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahshafiq28&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahshafiq28" /> </p>
+---
 
-- 🔭 I'm currently working on **AI-powered applications** including intelligent recommendation systems, NLP-based solutions, and machine learning models
+### 🚀 About Me
 
-- 🤖 Experienced in building **AI/ML solutions** with expertise in Deep Learning, Natural Language Processing, and Computer Vision
+With **7+ years** of experience, I help startups and teams go from concept to working **AI-powered products** in weeks, not months. My focus has shifted heavily toward **applied AI/ML** — building LLM-powered agents, RAG systems, and intelligent automation that plugs directly into real products, backed by solid full-stack engineering underneath.
 
-- 🌱 I'm currently exploring **Advanced AI techniques** including LLMs, RAG systems, and AI Agent development
+- 🤖 Building **AI agents & agentic workflows** — multi-agent coordination, tool use, and autonomous task execution
+- 🧠 Designing **RAG pipelines** with vector databases (Pinecone, Weaviate, pgvector) for grounded, accurate LLM outputs
+- 🔗 Integrating **LLM APIs** (OpenAI, Anthropic Claude, Gemini) into production apps — chat, voice, and real-time systems
+- 👁️ Hands-on with **Computer Vision & NLP** — from classic ML to transformer-based deep learning models
+- 🏗️ Shipping **AI-native SaaS platforms**: scalable backends, real-time dashboards, and clean, fast frontends
+- 🌱 Currently exploring **AI agent orchestration, MCP (Model Context Protocol), and multi-modal LLM systems**
+- 💼 Delivered projects for teams across the **US, UK, and beyond** — saving hours of manual work and unlocking new productivity
 
-- 👨‍💻 All of my projects are available at [www.abdullahshafiq.com](www.abdullahshafiq09.com)
+---
 
-- 📝 I regularly write articles on [MyBlogs](https://medium.com/@mabdullahshafiq100/javascript-for-beginners-8ecb188e147b)
+### 🛠️ Tech Stack
 
-- 📫 How to reach me **mabdullahshafiq100@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">🧠 AI / ML / LLM</h4>
 <p align="left">
-   <a href="mailto:mabdullahshafiq100@gmail.com" target="_blank">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-   </a>
-   <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-shafiq-9988bb16b" target="_blank">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white">
+</p>
+
+<h4 align="left">💻 Languages & Frameworks</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</p>
+
+<h4 align="left">☁️ Data, Cloud & DevOps</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahshafiq28&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahshafiq28&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahshafiq28&theme=tokyonight&hide_border=true" alt="abdullahshafiq28" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullahshafiq28&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="mailto:mabdullahshafiq100@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/abdullah-shafiq-9988bb16b" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://medium.com/@mabdullahshafiq100" target="_blank">
-  <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<h4>AI/ML & Data Science:</h4>
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  </a>
-  <a href="https://keras.io/" target="_blank">
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-  </a>
-  <a href="https://openai.com/" target="_blank">
-    <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-  </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+  <a href="https://www.abdullahshafiq09.com" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </p>
-
-<h4>Frontend Development:</h4>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  </a>
-  <a href="https://angular.io" target="_blank">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  </a>
-  <a href="https://angular.io" target="_blank">
-    <img alt="AngularJS" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  </a>
-</p>
-
-<h4>Backend & Mobile Development:</h4>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  </a>
-  <a href="https://developer.android.com" target="_blank">
-    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  </a>
-</p>
-
-<h4>Database & Cloud:</h4>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  </a>
-  <a href="https://heroku.com" target="_blank">
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  </a>
-</p>
-
-<h4>DevOps & Tools:</h4>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  </a>
-  <a href="https://graphql.org" target="_blank">
-    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  </a>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahshafiq28&show_icons=true&locale=en" alt="abdullahshafiq28" /></p>
