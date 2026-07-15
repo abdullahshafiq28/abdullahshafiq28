@@ -43,27 +43,25 @@ I like sitting at the intersection of research and production. That means I'm co
 
 ### 🌟 Featured Projects
 
-> Swap these placeholders for 2–4 of your strongest repos — projects that show range (an agent/RAG system, a full-stack AI product, something with real users) tend to land better than an exhaustive list.
-
 <table>
   <tr>
     <td width="50%">
-      <h4>🤖 Project Name</h4>
-      <p>One or two sentences on what it does, who it's for, and the core AI technique behind it (e.g. "An agentic research assistant that plans multi-step tasks and cites sources using a custom RAG pipeline over Pinecone").</p>
+      <h4>🤖 Lead Generation Automation Tool</h4>
+      <p>An internal automation that turns a keyword (e.g. engineer, AI engineer, React developer) into a clean, de-duplicated, scored list of sales/recruitment leads, ready for outreach.Built entirely on free tooling with n8n (Community Edition) as the workflow engine. No LinkedIn scraping — only official / public APIs.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
       </p>
-      <a href="#">🔗 View Repo</a>
+      <a href="https://github.com/abdullahshafiq28/Lead-Generation-Automation-Tool">🔗 View Repo</a>
     </td>
     <td width="50%">
-      <h4>🧠 Project Name</h4>
-      <p>Short description focused on impact and outcome — e.g. "Cut manual data-entry time by 80% for a UK-based SaaS client using an LLM-powered extraction pipeline."</p>
+      <h4>🧠 Multi Agent Research Assistant</h4>
+      <p>A RAG (Retrieval-Augmented Generation) system that turns a research topic into a source-grounded literature review — with paper retrieval, structured summaries, comparison tables, claim verification, research gap detection, and a full drafted lit review with citations.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
       </p>
-      <a href="#">🔗 View Repo</a>
+      <a href="https://github.com/abdullahshafiq28/Multi_Agent_Research_Assistant">🔗 View Repo</a>
     </td>
   </tr>
 </table>
