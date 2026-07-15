@@ -160,7 +160,7 @@ A snapshot of recent activity — most of it these days is Python and TypeScript
 
 ### 📫 Let's Connect
 
-I'm always open to conversations about AI agents, RAG systems, or turning an early-stage idea into a working product — whether that's a quick technical question or a longer-term collaboration. Feel free to reach out through any of the channels below, or check out [my writing on Medium](https://medium.com/@mabdullahshafiq100) where I share notes on building AI-driven products.
+I'm always open to conversations about AI agents, RAG systems, or turning an early-stage idea into a working product whether that's a quick technical question or a longer term collaboration. Feel free to reach out through any of the channels below, or check out [my writing on Medium](https://medium.com/@mabdullahshafiq100) where I share notes on building AI-driven products.
 
 <p align="left">
   <a href="mailto:mabdullahshafiq100@gmail.com" target="_blank">
