@@ -153,16 +153,7 @@ I like sitting at the intersection of research and production. That means I'm co
 A snapshot of recent activity — most of it these days is Python and TypeScript, split between model/agent code and the product surfaces around it.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahshafiq28&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahshafiq28&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahshafiq28&theme=tokyonight&hide_border=true" alt="abdullahshafiq28" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullahshafiq28&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
 
 ---
