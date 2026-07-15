@@ -23,9 +23,9 @@
 
 ### 🚀 About Me
 
-I'm a Full-Stack & AI/ML Engineer with **7+ years** of hands-on experience helping startups and product teams go from a rough idea to a working, revenue-generating product — often in weeks rather than months. Over the last couple of years my focus has shifted heavily toward **applied AI**: I spend most of my time designing and shipping LLM-powered agents, retrieval systems, and automation pipelines that make real products smarter, not just adding a chatbot on top.
+I'm a Full-Stack & AI/ML Engineer with **7+ years** of hands on experience helping startups and product teams go from a rough idea to a working, revenue generating product, often in weeks rather than months. Over the last couple of years my focus has shifted heavily toward **applied AI**.I spend most of my time designing and shipping LLM-powered agents, retrieval systems, and automation pipelines that make real products smarter, not just adding a chatbot on top.
 
-I like sitting at the intersection of research and production. That means I'm comfortable reading a paper on a new retrieval or fine-tuning technique one day, and the next day wiring that idea into a FastAPI service, a Postgres-backed vector store, and a React dashboard that a non-technical team can actually use. I care about AI systems that are reliable and explainable, not just impressive in a demo — grounding outputs with RAG, adding evaluation and guardrails, and designing for graceful failure when a model gets something wrong.
+I like sitting at the intersection of research and production. That means I'm comfortable reading a paper on a new retrieval or fine-tuning technique one day, and the next day wiring that idea into a FastAPI service, a Postgres-backed vector store, and a React dashboard that a non technical team can actually use. I care about AI systems that are reliable and explainable, not just impressive in a demo — grounding outputs with RAG, adding evaluation and guardrails, and designing for graceful failure when a model gets something wrong.
 
 **What I'm focused on right now:**
 
@@ -37,7 +37,7 @@ I like sitting at the intersection of research and production. That means I'm co
 - 🌱 **Currently exploring** agent orchestration frameworks, the Model Context Protocol (MCP), and multi-modal LLM systems that combine text, voice, and vision
 - 💼 **Track record**: delivered projects for teams across the **US, UK, and beyond**, consistently focused on saving hours of manual effort and unlocking new levels of productivity
 
-**How I like to work:** I'd rather ship a focused MVP that proves the core AI workflow actually works, get real feedback, then iterate — instead of over-engineering a "perfect" system before anyone has used it. Most of my recent work has come from exactly that loop: prototype fast, validate with real data and real users, then harden for production.
+**How I like to work:** I'd rather ship a focused MVP that proves the core AI workflow actually works, get real feedback, then iterate instead of over-engineering a "perfect" system before anyone has used it. Most of my recent work has come from exactly that loop: prototype fast, validate with real data and real users, then harden for production.
 
 ---
 
